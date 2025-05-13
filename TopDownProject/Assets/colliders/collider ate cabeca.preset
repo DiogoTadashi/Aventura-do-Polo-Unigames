@@ -1,0 +1,1128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: collider ate cabeca
+  m_TargetType:
+    m_NativeTypeID: 60
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Density
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Material
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_IncludeLayers.m_Bits
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ExcludeLayers.m_Bits
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_LayerOverridePriority
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ForceSendLayers.m_Bits
+    value: 4294967295
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ForceReceiveLayers.m_Bits
+    value: 4294967295
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_ContactCaptureLayers.m_Bits
+    value: 4294967295
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CallbackLayers.m_Bits
+    value: 4294967295
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_IsTrigger
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_UsedByEffector
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CompositeOperation
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CompositeOrder
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Offset.x
+    value: 0.031
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Offset.y
+    value: -0.97
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.border.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.border.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.border.z
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.border.w
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.pivot.x
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.pivot.y
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.oldSize.x
+    value: 1.9375
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.oldSize.y
+    value: 1.9375
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.newSize.x
+    value: 1.8125
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.newSize.y
+    value: 1.875
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.drawMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SpriteTilingProperty.adaptiveTiling
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AutoTiling
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.size
+    value: 122
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[0].x
+    value: 0.37896633
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[0].y
+    value: 1.6321293
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[1].x
+    value: 0.31506354
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[1].y
+    value: 1.6286737
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[2].x
+    value: 0.31841293
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[2].y
+    value: 1.6957682
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[3].x
+    value: 0.25473276
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[3].y
+    value: 1.6953825
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[4].x
+    value: 0.25689337
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[4].y
+    value: 1.7577374
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[5].x
+    value: 0.19468129
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[5].y
+    value: 1.7566626
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[6].x
+    value: 0.19188264
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[6].y
+    value: 1.804889
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[7].x
+    value: 0.26245603
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[7].y
+    value: 1.8071436
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[8].x
+    value: 0.26107508
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[8].y
+    value: 1.8815848
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[9].x
+    value: 0.18590814
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[9].y
+    value: 1.8832269
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[10].x
+    value: 0.18361945
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[10].y
+    value: 1.8196543
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[11].x
+    value: 0.118689075
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[11].y
+    value: 1.8159889
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[12].x
+    value: 0.11726255
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[12].y
+    value: 1.7533922
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[13].x
+    value: 0.0041846633
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[13].y
+    value: 1.7531594
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[14].x
+    value: 0.009233318
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[14].y
+    value: 1.8113865
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[15].x
+    value: 0.07879339
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[15].y
+    value: 1.8116746
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[16].x
+    value: 0.0809657
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[16].y
+    value: 1.8807884
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[17].x
+    value: -0.00850296
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[17].y
+    value: 1.8775194
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[18].x
+    value: -0.008082837
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[18].y
+    value: 1.8190274
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[19].x
+    value: -0.06959018
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[19].y
+    value: 1.821248
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[20].x
+    value: -0.07527095
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[20].y
+    value: 1.7521322
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[21].x
+    value: -0.18295382
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[21].y
+    value: 1.7530346
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[22].x
+    value: -0.18228756
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[22].y
+    value: 1.801623
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[23].x
+    value: -0.111462414
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[23].y
+    value: 1.8069714
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[24].x
+    value: -0.11810863
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[24].y
+    value: 1.8843162
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[25].x
+    value: -0.20000927
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[25].y
+    value: 1.8853374
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[26].x
+    value: -0.19563225
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[26].y
+    value: 1.8209406
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[27].x
+    value: -0.25807512
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[27].y
+    value: 1.8224392
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[28].x
+    value: -0.25659877
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[28].y
+    value: 1.7592547
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[29].x
+    value: -0.32610023
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[29].y
+    value: 1.7603856
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[30].x
+    value: -0.31994772
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[30].y
+    value: 1.6999875
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[31].x
+    value: -0.39102948
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[31].y
+    value: 1.7004797
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[32].x
+    value: -0.38550124
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[32].y
+    value: 1.639011
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[33].x
+    value: -0.45133427
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[33].y
+    value: 1.6350033
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[34].x
+    value: -0.44229403
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[34].y
+    value: 1.5749847
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[35].x
+    value: -0.5090455
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[35].y
+    value: 1.5710765
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[36].x
+    value: -0.50822055
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[36].y
+    value: 1.4567815
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[37].x
+    value: -0.57563055
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[37].y
+    value: 1.4548224
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[38].x
+    value: -0.5785983
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[38].y
+    value: 1.2225147
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[39].x
+    value: -0.573089
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[39].y
+    value: 1.0728076
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[40].x
+    value: -0.6323024
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[40].y
+    value: 1.0737911
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[41].x
+    value: -0.6351712
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[41].y
+    value: 1.0114653
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[42].x
+    value: -0.6957591
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[42].y
+    value: 1.0080469
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[43].x
+    value: -0.69595003
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[43].y
+    value: 0.94407547
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[44].x
+    value: -0.76220936
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[44].y
+    value: 0.94336617
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[45].x
+    value: -0.7615169
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[45].y
+    value: 0.8845324
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[46].x
+    value: -0.82215357
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[46].y
+    value: 0.8892482
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[47].x
+    value: -0.82700133
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[47].y
+    value: 0.82239467
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[48].x
+    value: -0.89251536
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[48].y
+    value: 0.8224086
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[49].x
+    value: -0.88340014
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[49].y
+    value: 0.76064044
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[50].x
+    value: -0.94546133
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[50].y
+    value: 0.76306665
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[51].x
+    value: -0.9426239
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[51].y
+    value: 0.55540496
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[52].x
+    value: -0.8871009
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[52].y
+    value: 0.55621976
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[53].x
+    value: -0.88211524
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[53].y
+    value: 0.48912942
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[54].x
+    value: -0.8104533
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[54].y
+    value: 0.48996013
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[55].x
+    value: -0.8049809
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[55].y
+    value: 0.55706966
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[56].x
+    value: -0.7453034
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[56].y
+    value: 0.5567783
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[57].x
+    value: -0.74198866
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[57].y
+    value: 0.6211232
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[58].x
+    value: -0.69778043
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[58].y
+    value: 0.6203162
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[59].x
+    value: -0.7000393
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[59].y
+    value: 0.5720968
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[60].x
+    value: -0.69774765
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[60].y
+    value: 0.4935993
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[61].x
+    value: -0.69457024
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[61].y
+    value: 0.4960068
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[62].x
+    value: -0.62997365
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[62].y
+    value: 0.49582702
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[63].x
+    value: -0.6295415
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[63].y
+    value: 0.36980855
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[64].x
+    value: -0.5670129
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[64].y
+    value: 0.3712304
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[65].x
+    value: -0.56799334
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[65].y
+    value: 0.30547732
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[66].x
+    value: -0.5039957
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[66].y
+    value: 0.30716723
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[67].x
+    value: -0.50567114
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[67].y
+    value: 0.24121226
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[68].x
+    value: -0.38056725
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[68].y
+    value: 0.24100316
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[69].x
+    value: -0.37906703
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[69].y
+    value: 0.1328665
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[70].x
+    value: -0.44302118
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[70].y
+    value: 0.12814821
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[71].x
+    value: -0.4415447
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[71].y
+    value: 0.055594593
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[72].x
+    value: -0.38040206
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[72].y
+    value: 0.05828941
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[73].x
+    value: -0.37590596
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[73].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[74].x
+    value: -0.122612774
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[74].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[75].x
+    value: -0.12299287
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[75].y
+    value: 0.030814905
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[76].x
+    value: -0.12418052
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[76].y
+    value: 0.06116496
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[77].x
+    value: -0.059743956
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[77].y
+    value: 0.06384758
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[78].x
+    value: -0.058794886
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[78].y
+    value: 0.1282072
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[79].x
+    value: -0.004647866
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[79].y
+    value: 0.12659088
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[80].x
+    value: -0.003031537
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[80].y
+    value: 0.12093373
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[81].x
+    value: -0.0043378025
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[81].y
+    value: 0.060668778
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[82].x
+    value: 0.056800596
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[82].y
+    value: 0.058996007
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[83].x
+    value: 0.055992424
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[83].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[84].x
+    value: 0.062457427
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[84].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[85].x
+    value: 0.31460476
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[85].y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[86].x
+    value: 0.31460565
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[86].y
+    value: 0.05980417
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[87].x
+    value: 0.37729162
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[87].y
+    value: 0.058884963
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[88].x
+    value: 0.37975588
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[88].y
+    value: 0.13261348
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[89].x
+    value: 0.3185822
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[89].y
+    value: 0.13503677
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[90].x
+    value: 0.32031843
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[90].y
+    value: 0.24015455
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[91].x
+    value: 0.44424188
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[91].y
+    value: 0.23992923
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[92].x
+    value: 0.4498598
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[92].y
+    value: 0.29788655
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[93].x
+    value: 0.50450605
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[93].y
+    value: 0.30109692
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[94].x
+    value: 0.5108545
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[94].y
+    value: 0.36592266
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[95].x
+    value: 0.5676682
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[95].y
+    value: 0.3669601
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[96].x
+    value: 0.5717176
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[96].y
+    value: 0.48764867
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[97].x
+    value: 0.63702244
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[97].y
+    value: 0.49377444
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[98].x
+    value: 0.63636655
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[98].y
+    value: 0.6153196
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[99].x
+    value: 0.6813554
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[99].y
+    value: 0.61591667
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[100].x
+    value: 0.68117434
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[100].y
+    value: 0.55562294
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[101].x
+    value: 0.7382262
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[101].y
+    value: 0.556955
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[102].x
+    value: 0.7458149
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[102].y
+    value: 0.49214068
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[103].x
+    value: 0.8195825
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[103].y
+    value: 0.49154165
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[104].x
+    value: 0.8224306
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[104].y
+    value: 0.5519198
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[105].x
+    value: 0.88101727
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[105].y
+    value: 0.55738336
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[106].x
+    value: 0.88131654
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[106].y
+    value: 0.7560575
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[107].x
+    value: 0.8203108
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[107].y
+    value: 0.7576337
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[108].x
+    value: 0.8222261
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[108].y
+    value: 0.8189119
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[109].x
+    value: 0.76091397
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[109].y
+    value: 0.8204817
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[110].x
+    value: 0.75581294
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[110].y
+    value: 0.88331944
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[111].x
+    value: 0.6961923
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[111].y
+    value: 0.8799144
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[112].x
+    value: 0.6918529
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[112].y
+    value: 0.94557375
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[113].x
+    value: 0.6323466
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[113].y
+    value: 0.94337046
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[114].x
+    value: 0.6332474
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[114].y
+    value: 1.0102245
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[115].x
+    value: 0.5718913
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[115].y
+    value: 1.0062073
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[116].x
+    value: 0.56435746
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[116].y
+    value: 1.0748694
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[117].x
+    value: 0.5119461
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[117].y
+    value: 1.0656343
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[118].x
+    value: 0.5070194
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[118].y
+    value: 1.445528
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[119].x
+    value: 0.44422746
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[119].y
+    value: 1.4457651
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[120].x
+    value: 0.44112602
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[120].y
+    value: 1.568475
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[121].x
+    value: 0.38447094
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Points.m_Paths.Array.data[0].Array.data[121].y
+    value: 1.5698073
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_UseDelaunayMesh
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
+  m_CoupledType:
+    m_NativeTypeID: 0
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_CoupledProperties: []

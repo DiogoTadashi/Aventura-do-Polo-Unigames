@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Item
+  - SpawnPoint
+  - safeHouseSpawnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Collision
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1955613479
+    locked: 0
+  - name: WalkInfront
+    uniqueID: 4142999941
+    locked: 0
+  - name: Collision
+    uniqueID: 1674764687
+    locked: 0
+  - name: Player
+    uniqueID: 100752075
+    locked: 0
+  - name: WalkBehind
+    uniqueID: 3771882853
+    locked: 0
+  - name: Decor
+    uniqueID: 1442057245
+    locked: 0
+  - name: fog
+    uniqueID: 4235436265
+    locked: 0
+  m_RenderingLayers:
+  - Default
